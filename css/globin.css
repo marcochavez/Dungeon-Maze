@@ -1,0 +1,10 @@
+#globin{
+position : absolute;
+background : url(../img/globin.png) no-repeat;
+height: 80px;
+width : 80px;
+
+left: 720px;
+
+border : 1px solid black;
+}

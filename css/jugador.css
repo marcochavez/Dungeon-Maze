@@ -1,0 +1,8 @@
+#jugador{
+position : absolute;
+background : url(../img/jugador.gif) no-repeat;
+height: 80px;
+width : 80px;
+
+border : 1px solid black;
+}

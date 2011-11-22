@@ -1,0 +1,13 @@
+#playGround {
+			background: #000;
+			opacity: 0.8;
+			width: 600px;
+			height: 800px;
+			position: absolute;
+			margin-left: -150px;
+			top: 100px; left: 50%;
+			-webkit-box-shadow: #3fb523 0 0 6px;  
+			-moz-box-shadow: #3fb523 0 0 6px;  
+			box-shadow: #3fb523 0 0 6px; 
+			overflow: hidden;
+		}

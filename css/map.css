@@ -1,0 +1,22 @@
+#map{
+
+  
+        background: #000;
+        opacity: 0.8;
+        width: 800px;
+        height: 520px;
+        position: absolute;
+        
+        -webkit-box-shadow: #3fb513 0 0 6px;
+        -moz-box-shadow: #3fb523 0 0 6px;
+        box-shadow: #3fb523 0 0 6px;
+        overflow: hidden;
+    
+/*
+position : relative;
+border : 1px solid black;
+
+height: 600px;
+width : 800px;
+background: url(../img/map.png) no-repeat;*/
+}
